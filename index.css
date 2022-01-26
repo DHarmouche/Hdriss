@@ -870,7 +870,8 @@ text-align: center;
 
 @media (max-width: 600px){
   .row .col50 img{
-    margin-left: 0px;
+    width: 369px;
+    margin-left: 9px;
     align-items: center;
     justify-content: center;
 }
