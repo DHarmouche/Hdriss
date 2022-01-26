@@ -871,7 +871,7 @@ text-align: center;
 @media (max-width: 600px){
   .row .col50 img{
     width: 369px;
-    margin-left: -12px;
+    margin-left: -20px;
     align-items: center;
     justify-content: center;
 }
